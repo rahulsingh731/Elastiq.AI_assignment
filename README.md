@@ -1,4 +1,4 @@
-# QA Selenium Automation with Python
+# Elastiq.AI_assignment
 
 ## Overview
 This repository contains a Selenium automation script written in Python to validate the search functionality on the [Selenium Playground Table Sort Search Demo](https://www.lambdatest.com/selenium-playground/table-sort-search-demo). The script uses Selenium WebDriver and Python's `pytest` framework for test case execution.
